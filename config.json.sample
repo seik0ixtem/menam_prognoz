@@ -1,0 +1,6 @@
+{
+  "protocol": "http",
+  "site_url": "me_casa_saito.ru",
+  "curWeather_url": "me_casa_saito.ru/curday.html",
+  "codepage": "cp1251"
+}
